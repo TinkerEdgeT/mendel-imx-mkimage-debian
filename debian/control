@@ -1,0 +1,9 @@
+Source: imx-mkimage
+Maintainer: AIY Projects <support-aiyprojects@google.com>
+Build-Depends: debhelper
+
+Package: imx-mkimage
+Section: misc
+Priority: required
+Architecture: arm64
+Description: Tools to create bootloader images for i.MX8
