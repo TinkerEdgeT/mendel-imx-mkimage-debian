@@ -1,6 +1,8 @@
 Source: imx-mkimage
 Maintainer: AIY Projects <support-aiyprojects@google.com>
 Build-Depends: debhelper
+Section: misc
+Priority: optional
 
 Package: imx-mkimage
 Section: misc
