@@ -6,6 +6,6 @@ Priority: optional
 
 Package: imx-mkimage
 Section: misc
-Priority: required
+Priority: optional
 Architecture: any
 Description: Tools to create bootloader images for i.MX8
